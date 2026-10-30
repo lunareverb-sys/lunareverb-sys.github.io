@@ -1,0 +1,3 @@
+Unbounded: Copyright 2022 The Unbounded Project Authors (https://github.com/googlefonts/unbounded). SIL Open Font License 1.1.
+Hanken Grotesk: Copyright 2021 The Hanken Grotesk Project Authors (https://github.com/marcologous/hanken-grotesk). SIL Open Font License 1.1.
+Arquivos woff2 obtidos do pacote Fontsource (jsDelivr) em 29/10/2026.
